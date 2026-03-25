@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Shashikant;Cyber+Security+%7C+Full+Stack+Dev;Ethical+Hacker+%7C+Android+Dev;Breaking+things+to+secure+them+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Shashikant+Kumar;Cyber+Security+%7C+Full+Stack+Dev;Ethical+Hacker+%7C+Android+Dev;Breaking+things+to+secure+them+%F0%9F%94%90" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 ---
 
 <!-- About Me -->
-<img align="right" alt="Hacking GIF" width="360" src="https://media.giphy.com/media/ZVik7pIo9KB3zoZDZB/giphy.gif"/>
+<img align="right" alt="Hacking GIF" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 🧑‍💻 About Me
 
